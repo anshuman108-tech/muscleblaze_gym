@@ -153,9 +153,9 @@
 }
 
 #SupplySection{
-    height: 600px;
+    height: 500px;
     margin: auto;
-    width: 100%;
+    width: 90%;
     background: url(/bj1.jpg);
     background-repeat: no-repeat;
     background-size:contain;
