@@ -50,7 +50,7 @@
 }
 
 #introSection{
-    height: 900px;
+    height: 750px;
     display: flex;
     flex-direction: column;
     padding-bottom: 60px;
@@ -149,11 +149,11 @@
 }
 
 .card-content p{
-    font-size: 23px;
+    font-size: 19px;
 }
 
 #SupplySection{
-    height: 780px;
+    height: 600px;
     margin: auto;
     width: 100%;
     background: url(/bj1.jpg);
@@ -161,7 +161,7 @@
     background-size:contain;
     background-position-x:left;
     color:rgb(251, 250, 186);
-    font-size: 23px;
+    font-size: 19px;
 }
 #SupplySection h2{
     text-align: center;
@@ -187,9 +187,9 @@
     width: 60%;
 }
 .card1 img{
-    height: 555px;
-    width: 426px;
-    margin-left: 513px;
+    height: 505px;
+    width: 400px;
+    margin-left: 480px;
 }
 .card2
 {
